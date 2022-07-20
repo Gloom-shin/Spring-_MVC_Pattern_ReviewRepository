@@ -8,6 +8,8 @@
 ### 목차
 
 <br></br>
+### IntelliJ 단축키
+<br></br>
 <br></br>
 
 # 1.
